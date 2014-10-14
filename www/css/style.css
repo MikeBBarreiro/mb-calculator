@@ -1,0 +1,18 @@
+.display{
+  font-size: 30px;
+  margin: 20px;
+  text-align: right;
+}
+
+body{
+  background-color: #659EFC;
+}
+
+.button {
+  background-color: #4E4D4E;
+  color: white;
+}
+
+.button:hover{
+  color: red;
+}
