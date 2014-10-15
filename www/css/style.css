@@ -1,11 +1,12 @@
 .display{
   font-size: 30px;
   margin: 20px;
-  text-align: right;
+  text-align: left;
 }
 
 body{
-  background-color: #659EFC;
+  background-image: url('http://vectorbeast.com/wp-content/uploads/2013/07/abstract-background.jpg');
+  background-size: cover;
 }
 
 .button {
