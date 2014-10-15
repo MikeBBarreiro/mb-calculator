@@ -15,7 +15,7 @@ body{
 
 .button:hover{
   color: black;
-  border: 1px solid red;
+  border: 1px solid black;
   background-image: url('http://www.psdgraphics.com/file/colorful-triangles-background.jpg');
   background-size: cover;
 }
